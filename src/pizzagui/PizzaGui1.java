@@ -375,10 +375,6 @@ public class PizzaGui extends javax.swing.JFrame {
         
     }//GEN-LAST:event_VekonyStateChanged
 
-    private void RendelesgombActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_RendelesgombActionPerformed
-        JOptionPane.showMessageDialog(rootPane, "Tesztverzió!", "Cím", 2);
-    }//GEN-LAST:event_RendelesgombActionPerformed
-
     /**
      * @param args the command line arguments
      */
